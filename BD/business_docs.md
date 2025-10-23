@@ -11,3 +11,5 @@ This directory contains business-related documentation for the Mock Git Test pro
 
 ## Purpose
 The BD directory contains all business-related documents and analysis for the Mock Git Test application.
+
+truong
