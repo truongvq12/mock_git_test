@@ -21,3 +21,5 @@ số 1
 vn
 
 asia
+
+scuti
