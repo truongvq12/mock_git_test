@@ -16,4 +16,6 @@ truong
 
 deptrai
 
-số 1
+số 1 
+
+vn
