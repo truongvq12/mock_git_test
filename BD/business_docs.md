@@ -15,3 +15,5 @@ The BD directory contains all business-related documents and analysis for the Mo
 truong
 
 deptrai
+
+số 1
