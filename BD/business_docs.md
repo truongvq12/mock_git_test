@@ -23,3 +23,5 @@ vn
 asia
 
 scuti
+
+dại
