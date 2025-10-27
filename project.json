@@ -1,0 +1,464 @@
+[
+  {
+    "id": "018f77b5-12ac-7a20-bb62-4a9a567c9b0d",
+    "setting_item": {
+      "project_name": "AI Summarizer Platform",
+      "description": "Dự án phát triển hệ thống tạo biên bản tự động bằng AI",
+      "language": "Python",
+      "framework": "Pytest",
+      "git": {
+        "repository": "https://github.com/example/ai-summarizer",
+        "branch": "main"
+      },
+      "ai_programming": {
+        "user_name": "git_user",
+        "password": "secure_password",
+        "token": "ghp_exampletoken123456789"
+      },
+      "directory": {
+        "rd": "01_RequirementDefinition",
+        "bd": "02_BasicDesign",
+        "pd": "03_ProgramDesign",
+        "source_code": "04_SourceCode",
+        "utd": "05_UTD",
+        "utc": "06_UTC"
+      }
+    },
+    "status_manage": {
+      "status": "processing",
+      "error_info": ""
+    },
+    "created_at": "2025-10-13T09:00:00Z",
+    "updated_at": "2025-10-13T09:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "id": "018f77b5-22bd-7c30-bc72-4b1c678d0a1e",
+    "setting_item": {
+      "project_name": "E-Commerce Backend Refactor",
+      "description": "Tối ưu backend và bổ sung UT cho hệ thống thương mại điện tử",
+      "language": "Java",
+      "framework": "JUnit",
+      "git": {
+        "repository": "https://github.com/example/ecommerce-backend",
+        "branch": "develop"
+      },
+      "ai_programming": {
+        "user_name": "git_admin",
+        "password": "admin123",
+        "token": "ghp_tokenexample987654321"
+      },
+      "directory": {
+        "rd": "01_RD",
+        "bd": "02_BD",
+        "pd": "03_PD",
+        "source_code": "src",
+        "utd": "UTD_docs",
+        "utc": "UT_tests"
+      }
+    },
+    "status_manage": {
+      "status": "completed",
+      "error_info": ""
+    },
+    "created_at": "2025-09-20T09:00:00Z",
+    "updated_at": "2025-10-10T09:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "id": "018f77b5-33ce-7d40-cd82-4c2d789e1b2f",
+    "setting_item": {
+      "project_name": "ERP System Modernization",
+      "description": "Cải tiến hệ thống ERP cũ sang nền .NET 8 và áp dụng kiến trúc microservice",
+      "language": "C#",
+      "framework": ".NET 8 xUnit",
+      "git": {
+        "repository": "https://github.com/example/erp-modernization",
+        "branch": "feature/migrate-dotnet8"
+      },
+      "ai_programming": {
+        "user_name": "dotnet_dev",
+        "password": "dotnet_secure",
+        "token": "ghp_dotnettoken135792468"
+      },
+      "directory": {
+        "rd": "01_RD",
+        "bd": "02_BasicDesign",
+        "pd": "03_ProgramDesign",
+        "source_code": "src",
+        "utd": "05_UTD",
+        "utc": "06_UTC"
+      }
+    },
+    "status_manage": {
+      "status": "waiting",
+      "error_info": ""
+    },
+    "created_at": "2025-10-14T09:00:00Z",
+    "updated_at": "2025-10-14T09:00:00Z",
+    "deleted_at": null
+  },  
+  {
+    "id": "018f77b5-33ce-7d40-cd82-4c2d789e1b36",
+    "setting_item": {
+      "project_name": "IoT Device Monitoring Platform",
+      "description": "Developed a cloud-based platform for real-time IoT device monitoring using Node.js and MQTT. Improved data reliability and alert response time. / Node.jsとMQTTを使用して、リアルタイムのIoTデバイス監視を行うクラウドプラットフォームを開発し、データ信頼性とアラート応答時間を改善しました。",
+      "language": "Python",
+      "framework": "Pytest",
+      "git": {
+        "repository": "https://github.com/example/iot-monitor",
+        "branch": "release/v3.0"
+      },
+      "ai_programming": {
+        "user_name": "iot_admin",
+        "password": "iot_secure",
+        "token": "ghp_iottoken55667788"
+      },
+      "directory": {
+        "rd": "01_RD",
+        "bd": "02_BasicDesign",
+        "pd": "03_ProgramDesign",
+        "source_code": "server",
+        "utd": "05_UTD",
+        "utc": "06_UTC"
+      }
+    },
+    "status_manage": {
+      "status": "waiting",
+      "error_info": ""
+    },
+    "created_at": "2025-10-14T09:30:00Z",
+    "updated_at": "2025-10-14T09:30:00Z",
+    "deleted_at": null
+  },
+  {
+    "id": "018f77b5-33ce-7d40-cd82-4c2d789e1b37",
+    "setting_item": {
+      "project_name": "DevOps CI/CD Automation",
+      "description": "Implemented a complete CI/CD pipeline using GitHub Actions and Azure DevOps for containerized .NET and React apps. / GitHub ActionsとAzure DevOpsを使用し、.NETおよびReactアプリのコンテナ化に対応したCI/CDパイプラインを構築しました。",
+      "language": "Java",
+      "framework": "JUnit",
+      "git": {
+        "repository": "https://github.com/example/devops-pipeline",
+        "branch": "ci-cd-setup"
+      },
+      "ai_programming": {
+        "user_name": "devops_master",
+        "password": "devops_secure",
+        "token": "ghp_devopstoken889900"
+      },
+      "directory": {
+        "rd": "01_RD",
+        "bd": "02_BasicDesign",
+        "pd": "03_ProgramDesign",
+        "source_code": ".github/workflows",
+        "utd": "05_UTD",
+        "utc": "06_UTC"
+      }
+    },
+    "status_manage": {
+      "status": "completed",
+      "error_info": ""
+    },
+    "created_at": "2025-10-14T09:35:00Z",
+    "updated_at": "2025-10-14T09:35:00Z",
+    "deleted_at": null
+  },
+  {
+    "id": "018f77b5-33ce-7d40-cd82-4c2d789e1b38",
+    "setting_item": {
+      "project_name": "AI Vision Quality Inspector",
+      "description": "Built a computer vision system using OpenCV and PyTorch to detect manufacturing defects automatically. / OpenCVとPyTorchを使用し、製造ラインの欠陥を自動検出する画像認識システムを構築しました。",
+      "language": "C#",
+      "framework": ".NET 8 xUnit",
+      "git": {
+        "repository": "https://github.com/example/vision-quality",
+        "branch": "feature/ai-inspection"
+      },
+      "ai_programming": {
+        "user_name": "cv_engineer",
+        "password": "cv_secure",
+        "token": "ghp_cvtoken101112"
+      },
+      "directory": {
+        "rd": "01_RD",
+        "bd": "02_BasicDesign",
+        "pd": "03_ProgramDesign",
+        "source_code": "vision",
+        "utd": "05_UTD",
+        "utc": "06_UTC"
+      }
+    },
+    "status_manage": {
+      "status": "in_progress",
+      "error_info": ""
+    },
+    "created_at": "2025-10-14T09:40:00Z",
+    "updated_at": "2025-10-14T09:40:00Z",
+    "deleted_at": null
+  },
+  {
+    "id": "018f77b5-33ce-7d40-cd82-4c2d789e1b39",
+    "setting_item": {
+      "project_name": "Document Management System",
+      "description": "Developed a document management system with version control, OCR, and AI-based metadata extraction using Django and Azure Blob Storage. / DjangoとAzure Blob Storageを使用し、バージョン管理、OCR、AIメタデータ抽出を備えた文書管理システムを開発しました。",
+      "language": "Python",
+      "framework": "Django / Azure SDK",
+      "git": {
+        "repository": "https://github.com/example/doc-management",
+        "branch": "release/v1.2"
+      },
+      "ai_programming": {
+        "user_name": "django_admin",
+        "password": "django_secure",
+        "token": "ghp_djangotoken223344"
+      },
+      "directory": {
+        "rd": "01_RD",
+        "bd": "02_BasicDesign",
+        "pd": "03_ProgramDesign",
+        "source_code": "project",
+        "utd": "05_UTD",
+        "utc": "06_UTC"
+      }
+    },
+    "status_manage": {
+      "status": "waiting",
+      "error_info": ""
+    },
+    "created_at": "2025-10-14T09:45:00Z",
+    "updated_at": "2025-10-14T09:45:00Z",
+    "deleted_at": null
+  },
+  {
+    "id": "018f77b5-33ce-7d40-cd82-4c2d789e1b40",
+    "setting_item": {
+      "project_name": "Smart Factory Dashboard",
+      "description": "Created an interactive smart factory dashboard visualizing sensor data with React, WebSocket, and D3.js for real-time analytics. / React、WebSocket、D3.jsを使用して、リアルタイム分析用のスマートファクトリーダッシュボードを構築しました。",
+      "language": "C#",
+      "framework": ".NET 8 xUnit",
+      "git": {
+        "repository": "https://github.com/example/smart-factory",
+        "branch": "main"
+      },
+      "ai_programming": {
+        "user_name": "frontend_analyst",
+        "password": "react_secure",
+        "token": "ghp_reacttoken334455"
+      },
+      "directory": {
+        "rd": "01_RD",
+        "bd": "02_BasicDesign",
+        "pd": "03_ProgramDesign",
+        "source_code": "dashboard",
+        "utd": "05_UTD",
+        "utc": "06_UTC"
+      }
+    },
+    "status_manage": {
+      "status": "completed",
+      "error_info": ""
+    },
+    "created_at": "2025-10-14T09:50:00Z",
+    "updated_at": "2025-10-14T09:50:00Z",
+    "deleted_at": null
+  },
+    {
+    "id": "018f77b5-33ce-7d40-cd82-4c2d789e1b30",
+    "setting_item": {
+      "project_name": "ERP System Modernization",
+      "description": "Upgraded the legacy ERP system to the .NET 8 platform and implemented a microservice-based architecture to enhance scalability and maintainability.",
+      "language": "C#",
+      "framework": ".NET 8 xUnit",
+      "git": {
+        "repository": "https://github.com/example/erp-modernization",
+        "branch": "feature/migrate-dotnet8"
+      },
+      "ai_programming": {
+        "user_name": "dotnet_dev",
+        "password": "dotnet_secure",
+        "token": "ghp_dotnettoken135792468"
+      },
+      "directory": {
+        "rd": "01_RD",
+        "bd": "02_BasicDesign",
+        "pd": "03_ProgramDesign",
+        "source_code": "src",
+        "utd": "05_UTD",
+        "utc": "06_UTC"
+      }
+    },
+    "status_manage": {
+      "status": "waiting",
+      "error_info": ""
+    },
+    "created_at": "2025-10-14T09:00:00Z",
+    "updated_at": "2025-10-14T09:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "id": "018f77b5-33ce-7d40-cd82-4c2d789e1b31",
+    "setting_item": {
+      "project_name": "AI Chatbot Integration",
+      "description": "Developed an AI-powered chatbot for customer service using Python and FastAPI, integrated with OpenAI APIs and deployed on Azure Functions.",
+      "language": "Python",
+      "framework": "FastAPI",
+      "git": {
+        "repository": "https://github.com/example/ai-chatbot",
+        "branch": "main"
+      },
+      "ai_programming": {
+        "user_name": "ai_engineer",
+        "password": "securepass",
+        "token": "ghp_aitoken123456789"
+      },
+      "directory": {
+        "rd": "01_RD",
+        "bd": "02_BasicDesign",
+        "pd": "03_ProgramDesign",
+        "source_code": "app",
+        "utd": "05_UTD",
+        "utc": "06_UTC"
+      }
+    },
+    "status_manage": {
+      "status": "in_progress",
+      "error_info": ""
+    },
+    "created_at": "2025-10-14T09:05:00Z",
+    "updated_at": "2025-10-14T09:05:00Z",
+    "deleted_at": null
+  },
+  {
+    "id": "018f77b5-33ce-7d40-cd82-4c2d789e1b32",
+    "setting_item": {
+      "project_name": "E-Commerce Refactoring",
+      "description": "Refactored the existing e-commerce platform to Next.js 14 and TypeScript, enhancing page load performance and introducing server-side rendering.",
+      "language": "Java",
+      "framework": "JUnit",
+      "git": {
+        "repository": "https://github.com/example/ecommerce-refactor",
+        "branch": "develop"
+      },
+      "ai_programming": {
+        "user_name": "frontend_master",
+        "password": "nextjs_dev",
+        "token": "ghp_nexttoken987654321"
+      },
+      "directory": {
+        "rd": "01_RD",
+        "bd": "02_BasicDesign",
+        "pd": "03_ProgramDesign",
+        "source_code": "web",
+        "utd": "05_UTD",
+        "utc": "06_UTC"
+      }
+    },
+    "status_manage": {
+      "status": "completed",
+      "error_info": ""
+    },
+    "created_at": "2025-10-14T09:10:00Z",
+    "updated_at": "2025-10-14T09:10:00Z",
+    "deleted_at": null
+  },
+  {
+    "id": "018f77b5-33ce-7d40-cd82-4c2d789e1b33",
+    "setting_item": {
+      "project_name": "Data Warehouse Automation",
+      "description": "Implemented an automated ETL pipeline using Azure Data Factory and Databricks to streamline data flow from multiple enterprise systems.",
+      "language": "Python",
+      "framework": "Azure Data Factory / Databricks",
+      "git": {
+        "repository": "https://github.com/example/data-warehouse",
+        "branch": "release/etl-v2"
+      },
+      "ai_programming": {
+        "user_name": "data_architect",
+        "password": "databricks_key",
+        "token": "ghp_datatoken654321987"
+      },
+      "directory": {
+        "rd": "01_RD",
+        "bd": "02_BasicDesign",
+        "pd": "03_ProgramDesign",
+        "source_code": "etl",
+        "utd": "05_UTD",
+        "utc": "06_UTC"
+      }
+    },
+    "status_manage": {
+      "status": "waiting",
+      "error_info": ""
+    },
+    "created_at": "2025-10-14T09:15:00Z",
+    "updated_at": "2025-10-14T09:15:00Z",
+    "deleted_at": null
+  },
+  {
+    "id": "018f77b5-33ce-7d40-cd82-4c2d789e1b34",
+    "setting_item": {
+      "project_name": "Mobile Banking App Redesign",
+      "description": "Redesigned the mobile banking application with Flutter 3 to improve UI/UX consistency, multi-platform support, and security compliance.",
+      "language": "Java",
+      "framework": "JUnit",
+      "git": {
+        "repository": "https://github.com/example/mobile-banking",
+        "branch": "ui-redesign"
+      },
+      "ai_programming": {
+        "user_name": "flutter_dev",
+        "password": "flutter_secure",
+        "token": "ghp_fluttoken246801357"
+      },
+      "directory": {
+        "rd": "01_RD",
+        "bd": "02_BasicDesign",
+        "pd": "03_ProgramDesign",
+        "source_code": "lib",
+        "utd": "05_UTD",
+        "utc": "06_UTC"
+      }
+    },
+    "status_manage": {
+      "status": "in_progress",
+      "error_info": ""
+    },
+    "created_at": "2025-10-14T09:20:00Z",
+    "updated_at": "2025-10-14T09:20:00Z",
+    "deleted_at": null
+  },
+  {
+    "id": "018f77b5-33ce-7d40-cd82-4c2d789e1b35",
+    "setting_item": {
+      "project_name": "Inventory AI Prediction",
+      "description": "Built an AI-based inventory forecasting system using TensorFlow and FastAPI to reduce overstocking and improve warehouse efficiency.",
+      "language": "Python",
+      "framework": "TensorFlow / FastAPI",
+      "git": {
+        "repository": "https://github.com/example/inventory-ai",
+        "branch": "main"
+      },
+      "ai_programming": {
+        "user_name": "ml_specialist",
+        "password": "ml_secure",
+        "token": "ghp_mltoken1122334455"
+      },
+      "directory": {
+        "rd": "01_RD",
+        "bd": "02_BasicDesign",
+        "pd": "03_ProgramDesign",
+        "source_code": "ml",
+        "utd": "05_UTD",
+        "utc": "06_UTC"
+      }
+    },
+    "status_manage": {
+      "status": "completed",
+      "error_info": ""
+    },
+    "created_at": "2025-10-14T09:25:00Z",
+    "updated_at": "2025-10-14T09:25:00Z",
+    "deleted_at": null
+  }
+]
