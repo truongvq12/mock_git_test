@@ -25,3 +25,5 @@ asia
 scuti
 
 dại
+
+edit 27/10
